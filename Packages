@@ -1,0 +1,17 @@
+Package: com.alexzielenski.tinybar
+Version: 0.1.5-1+debug
+Priority: optional
+Section: Tweaks
+Maintainer: Alex Zielenski
+Depends: firmware (>= 7.0.2), mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: debs/tinybar.deb
+Size: 73654
+Installed-Size: 488
+MD5sum: 00eacfd8fb2aa0ce7e2f5371e394ba6b
+Description: Thins notification banners down to size!
+Name: TinyBar
+Author: Alex Zielenski <http://www.alexzielenski.com>
+Homepage: http://www.alexzielenski.com
+Depiction: http://repo.alexzielenski.com/depictions/TinyBar.html
+
